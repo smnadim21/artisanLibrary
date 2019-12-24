@@ -1,5 +1,5 @@
 #include<stdio.h>
 main()
 {
-system("php artisan serve");
+    system("php artisan serve");
 }
