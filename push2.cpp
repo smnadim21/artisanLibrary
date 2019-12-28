@@ -25,6 +25,7 @@ int main(int argc, char** argv)
 
     cout << command << endl;
     system(command.c_str());
+    system("git push");
 
 
     return 0;
