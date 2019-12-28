@@ -10,7 +10,6 @@ int main(int argc, char** argv)
 //        cout << argv[i] << "\n";
 
     cout << "git status" << endl;
-     printf("\x1B[31mTexting\033[0m\t\t");
     system("git status");
     cout << "git add ." << endl;
     system("git add .");
