@@ -11,7 +11,7 @@ int main(int argc, char** argv)
 
     cout << "git status" << endl;
     system("git status");
-    system("c0");
+    system("Color F3");
     cout << "git add ." << endl;
     system("git add .");
 
